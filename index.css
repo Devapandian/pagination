@@ -1,0 +1,30 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pagination li {
+    margin: 0 10px;
+  }
+  
+  .pagination a {
+    display: block;
+    padding: 8px 12px;
+    border-radius: 1px;
+    background-color: pink;
+    color: blue
+     .pagination a:active {
+        color: red;
+      }
+      
+  }
+  
+  
+  
